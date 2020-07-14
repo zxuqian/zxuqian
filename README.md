@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💻 I'm a frontend developer and tutor
+- 🔭 I’m currently working on React Chat UI course
+- 🌱 I’m currently learning Rust
+- 🤔 I’m looking for help with communication and public speaking skills
+- 💬 Ask me about frontend development
+- 📫 How to reach me: zxuqian(weichat), [Bilibili](https://space.bilibili.com/302954484)
