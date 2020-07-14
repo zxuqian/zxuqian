@@ -1,3 +1,5 @@
+[中文版](./README-zh_CN.md)
+
 ### Hi there 👋
 
 <!--
@@ -19,5 +21,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on React Chat UI course
 - 🌱 I’m currently learning Rust
 - 🤔 I’m looking for help with communication and public speaking skills
-- 💬 Ask me about frontend development
-- 📫 How to reach me: zxuqian(weichat), [Bilibili](https://space.bilibili.com/302954484)
+- 💬 Ask me about learning frontend development
+- 📫 How to reach me: zxuqian(wechat), [Bilibili](https://space.bilibili.com/302954484)
