@@ -1,4 +1,4 @@
-[中文版](./README-zh_CN.md)
+[中文版](https://github.com/zxuqian/zxuqian/blob/master/README-zh_CN.md)
 
 ### Hi there 👋
 
