@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 💻 I'm a frontend developer and tutor
 - 🔭 I’m currently working on React Chat UI course
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently writing a book about JavaScript
 - 🤔 I’m looking for improving communication and public speaking skills
 - 💬 Ask me about learning frontend development
 - 📫 How to reach me: zxuqian(wechat), [Bilibili](https://space.bilibili.com/302954484)
