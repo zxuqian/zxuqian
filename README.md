@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 👨‍💻 Actively looking for jobs
 - 💻 I'm a frontend developer and tutor
 - 🌱 I wrote a book about JavaScript
 - 🔭 I’m currently working on React Chat UI course
 - 🤔 I’m looking for improving communication and public speaking skills
 - 💬 Ask me about learning frontend development
-- 📫 How to reach me: zxuqian(wechat), [Bilibili](https://space.bilibili.com/302954484)
+- 📫 How to reach me: zxuqian@gmail.com, zxuqian(wechat), [Bilibili](https://space.bilibili.com/302954484)
